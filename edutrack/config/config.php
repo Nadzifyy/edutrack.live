@@ -13,7 +13,7 @@ define('DB_NAME', 'edutrack');
 // Application Configuration
 define('APP_NAME', 'EduTrack');
 define('SCHOOL_NAME', 'CIRILO BUENO SR. ELEMENTARY SCHOOL');
-define('APP_URL', 'http://localhost/edutrack');
+define('APP_URL', 'https://nadzifyy.github.io/edutrack.live/');
 define('TIMEZONE', 'Asia/Manila');
 
 // Session Configuration
